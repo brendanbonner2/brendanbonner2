@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AI Vision Tech as part of MSc
+- 🌱 I’m currently learning BERT and BART
+- 👯 I’m looking to collaborate on Humanistic Projects
+- 🤔 I’m looking for help with Investment
+- 💬 Ask me about Working in Ireland
+- 📫 How to reach me: brendanbonner2@mail.dcu.ie
+- 😄 Pronouns: Bone-er/Bonn-er
+- ⚡ Fun fact: Just did this readme thanksfor @waterproofheart.
+
+
 <!--
 **brendanbonner2/brendanbonner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
