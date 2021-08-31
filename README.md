@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Investment
 - 💬 Ask me about Working in Ireland
 - 📫 How to reach me: brendanbonner2@mail.dcu.ie
-- 😄 Pronouns: Bone-er/Bonn-er
 - ⚡ Fun fact: Just did this readme thanksfor @waterproofheart.
 
 
